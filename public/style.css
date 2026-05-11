@@ -1,0 +1,9 @@
+table{
+    border : 1px solid black;
+     gap: 5px;
+}
+
+th, tr{
+ border:  1px solid black;
+
+}
