@@ -1,54 +1,46 @@
 <?php
 
-class Echantillon{
+class Equipement{
     private PDO $pdo;
-    private Echantillon $model;
+    private Equipement $model;
     
     public function __construct(PDO $pdo){
         $this->pdo = $pdo;
     }
 
     public function afficher(){
-        $sql = "SELECT * FROM echantillon";
+        $sql = "SELECT * FROM equipement";
         $stmt = $this->pdo->prepare($sql);
         $stmt->execute();
         return $stmt->fetchAll();
     }
 
-    public function trierParUrgence() {
-        $sql = "SELECT * FROM echantillon 
-        ORDER BY FIELD(priority, 'URGENT', 'STAT','ROUTINE')";
+    public function trierParType() {
+        $sql = "SELECT * FROM equipement ORDER BY 'type'";
         $stmt = $this->pdo->prepare($sql);
         $stmt->execute();
         return $stmt->fetchAll();
     }
 
-    public function blood(){
-        $sql = "SELECT * FROM echantillon 
-        WHERE type = 'BLOOD'
-        ORDER BY FIELD(priority, 'URGENT', 'STAT','ROUTINE')";
+        public function blood(){
+        $sql = "SELECT * FROM equipement WHERE type = 'BLOOD'";
         $stmt = $this->pdo->prepare($sql);
         $stmt->execute();
         return $stmt->fetchAll();    
     }
 
     public function urine(){
-        $sql = "SELECT * FROM echantillon WHERE type = 'URINE'
-        ORDER BY FIELD(priority, 'STAT', 'URGENT', 'ROUTINE')";
+        $sql = "SELECT * FROM equipement WHERE type = 'URINE'";
         $stmt = $this->pdo->prepare($sql);
         $stmt->execute();
         return $stmt->fetchAll();    
     }
     
     public function tissue(){
-        $sql = "SELECT * FROM echantillon WHERE type = 'TISSUE'
-        ORDER BY FIELD(priority, 'URGENT', 'STAT','ROUTINE')";
+        $sql = "SELECT * FROM equipement WHERE type = 'TISSUE'";
         $stmt = $this->pdo->prepare($sql);
         $stmt->execute();
         return $stmt->fetchAll();    
     }
 
-
-
-    
 }
