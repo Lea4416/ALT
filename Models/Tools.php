@@ -174,6 +174,12 @@ class Tools
             die("Tous les champs sont obligatoires");
         }
 
+        $allowed=["active","deprecated","trial"];
+        if (in_array($status, $allowed)) {
+            die("Le statut n'est pas bon.");
+        };
+
+
         if (strlen($name) < 2 || strlen($name) > 100) {
             die("Nom invalide (2 à 100 caractères)");
         }
@@ -194,6 +200,8 @@ class Tools
 
         $result = $this->db->requete($sql);
     }
+
+    
 
 
 }

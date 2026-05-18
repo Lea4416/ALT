@@ -10,9 +10,11 @@
 
 require_once "./Core/sql.php";
 require_once "./Models/Tools.php";
+require_once "./Controller/AcceuilController.php";
 
-use App\Models\Tools;
-$tools = new Tools();
+use App\Controller\AcceuilController;
+
+$controler = new AcceuilController();
 
 ?>
 <h1>Phase 3 API</h1>
@@ -23,7 +25,7 @@ $tools = new Tools();
 $order = "monthly_cost";
 
 // $tools->liste_avec_filtre($order,["owner_department = 'Engineering'","status = 'active'"]);
-$tools->liste_avec_filtre($order,["id = 1"]);
+$controler->liste_avec_filtre($order,["id = 1"]);
 ?>
 
 <h2>Cas Marcus - Details complet</h2>
@@ -32,7 +34,7 @@ $tools->liste_avec_filtre($order,["id = 1"]);
 <?php 
 $id = 5;
 
-$tools->researchById($id);
+$controler->researchById($id);
 
 ?>
 
@@ -74,7 +76,7 @@ $tools->researchById($id);
     $monthly_cost= (float)$_POST["monthly_cost"];
     $owner_department= trim($_POST["owner_department"]);
 
-    $tools->creationOutil($name,$description,$vendor,$website_url,$monthly_cost,$owner_department);
+    $controler->creationOutil($name,$description,$vendor,$website_url,$monthly_cost,$owner_department);
 }
 
 ?>
@@ -102,13 +104,10 @@ $tools->researchById($id);
     $monthly_cost= (float)$_POST["monthly_cost"];
     $status= trim($_POST["status"]);
 
-    $tools->modification($name,$description,$status,$monthly_cost);
+    $controler->modification($name,$description,$status,$monthly_cost);
 }
 
 ?>
 </form>
-
-
-
 </body>
 </html>
