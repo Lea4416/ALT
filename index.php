@@ -80,5 +80,35 @@ $tools->researchById($id);
 ?>
 </form>
 
+<h2>Cas David : Mise a jour</h2>
+
+<form method="POST">
+    <label for="name">Nom</label>
+    <input type="text" id="name" placeholder="Nom de l'application" name="name" minlength="2" maxlength="100" required><br>
+    <label for="monthly_cost">Coût-mensuelle</label>
+    <input type="number" id="monthly_cost" placeholder="Coût-mensuelle de l'application" name="monthly_cost"><br>
+    <label for="status">Status</label>
+    <input type="text" id="status" placeholder="Statut de l'application" name="status"><br>
+    <label for="description">Description</label>
+    <input type="text" id="description" placeholder="Description de l'application" name="description"><br>
+
+    <button type="submit" name="modification">Envoyer</button>
+    <?php 
+
+ if (isset($_POST["modification"])) {
+
+    $name=trim($_POST["name"]);
+    $description= trim($_POST["description"]);
+    $monthly_cost= (float)$_POST["monthly_cost"];
+    $status= trim($_POST["status"]);
+
+    $tools->modification($name,$description,$status,$monthly_cost);
+}
+
+?>
+</form>
+
+
+
 </body>
 </html>

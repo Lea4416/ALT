@@ -73,11 +73,11 @@ class Tools
         //     ";
         // $result_total = $this->db->requete($sql);
 
-        var_dump($result);
+        var_dump($sql,$result);
         // var_dump($result_total);
     }
 
-    public function creationOutil(string $name, string $description = null, string $vendor, string $website_url = null, int $monthly_cost, string $owner_department)
+    public function creationOutil(string $name, string $description = null, string $vendor, string $website_url = null, float $monthly_cost, string $owner_department)
     {
         // var_dump($name, $description, $vendor, $website_url, $monthly_cost, $owner_department);
 
@@ -159,8 +159,41 @@ class Tools
         VALUES
         ('$name','$description','$vendor','$website_url','$category_id','$monthly_cost', '0', '$owner_department',NULL)
         ";
+        var_dump($sql);
+
         $result = $this->db->requete($sql);
     }
 
-    
+    public function modification(string $name,string $description = null,string $status,float $monthly_cost) {
+        var_dump($name,$description,$status,$monthly_cost);
+             if (
+            empty(trim($name)) ||
+            empty(trim($status)) ||
+            empty($monthly_cost) 
+        ) {
+            die("Tous les champs sont obligatoires");
+        }
+
+        if (strlen($name) < 2 || strlen($name) > 100) {
+            die("Nom invalide (2 à 100 caractères)");
+        }
+
+        if (!is_numeric($monthly_cost) || $monthly_cost < 0) {
+            die("Le coût doit être un nombre positif");
+        }
+
+        $sql = "
+        UPDATE tools
+        SET description = '$description',
+            monthly_cost = '$monthly_cost',
+            status = '$status'
+        WHERE name = '$name'
+        ";
+
+        var_dump($sql);
+
+        $result = $this->db->requete($sql);
+    }
+
+
 }
