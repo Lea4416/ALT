@@ -10,6 +10,7 @@
 
 require_once "./Core/sql.php";
 require_once "./Models/Tools.php";
+require_once "./Models/Categorie.php";
 require_once "./Controller/AcceuilController.php";
 
 use App\Controller\AcceuilController;
@@ -19,12 +20,14 @@ $controler = new AcceuilController();
 ?>
 <h1>Phase 3 API</h1>
 
-<h2>Cas Sandra - Listes avec filtres</h2>
+<h2>Partie 1</h2>
+
+<h3>Cas Sandra - Listes avec filtres</h3>
 
 <?php  
 $order = "monthly_cost";
 
-// $tools->liste_avec_filtre($order,["owner_department = 'Engineering'","status = 'active'"]);
+$controler->liste_avec_filtre($order,["owner_department = 'Engineering'","status = 'active'"]);
 $controler->liste_avec_filtre($order,["id = 1"]);
 ?>
 
@@ -37,8 +40,7 @@ $id = 5;
 $controler->researchById($id);
 
 ?>
-
-<h2>Cas Lisa - Création nouvel outil</h2>
+<h3>Cas Lisa - Création nouvel outil</h3>
 
 <form method="POST">
     <label for="name">Nom</label>
@@ -51,8 +53,8 @@ $controler->researchById($id);
     <input type="url" id="website_url" placeholder="Lien URL vers l'application" name="website_url"><br>
     <label for="monthly_cost">Coût-mensuelle</label>
     <input type="number" id="monthly_cost" placeholder="Coût-mensuelle de l'application" name="monthly_cost"><br>
-    <label for="owner_department">Service</label>
-    <select name="owner_department" id="owner_department">
+    <label for="categorie">categrie</label>
+    <select name="categorie" id="categorie">
         <option value="communication">Communication</option>
         <option value="development">Developpement</option>
         <option value="design">Designer</option>
@@ -62,8 +64,16 @@ $controler->researchById($id);
         <option value="marketing">Marketing</option>
         <option value="hr">Ressources humaines</option>
         <option value="finance">Finance</option>
-        <option value="infrastructure">Infrastructure</option>
     </select><br>
+    <label for="owner_department">Service</label>
+    <select name="owner_department" id="owner_department">
+      <option value="Engineering">Ingénieur</option>
+        <option value="Sales">Sales</option>
+        <option value="HR">Ressources humaines</option>
+        <option value="Operations">Buisnes</option>
+        <option value="Marketing">Marketing</option>
+        <option value="Finance">Finance</option>
+     </select><br>
     <button type="submit" name="inscription">Envoyer</button>
     <?php 
 
@@ -75,14 +85,15 @@ $controler->researchById($id);
     $website_url=trim($_POST["website_url"]);
     $monthly_cost= (float)$_POST["monthly_cost"];
     $owner_department= trim($_POST["owner_department"]);
+    $categorie= trim($_POST["categorie"]);
 
-    $controler->creationOutil($name,$description,$vendor,$website_url,$monthly_cost,$owner_department);
+    $controler->creationOutil($name,$description,$vendor,$website_url,$monthly_cost,$owner_department,$categorie);
 }
 
 ?>
 </form>
 
-<h2>Cas David : Mise a jour</h2>
+<h3>Cas David : Mise a jour</h3>
 
 <form method="POST">
     <label for="name">Nom</label>
@@ -90,12 +101,16 @@ $controler->researchById($id);
     <label for="monthly_cost">Coût-mensuelle</label>
     <input type="number" id="monthly_cost" placeholder="Coût-mensuelle de l'application" name="monthly_cost"><br>
     <label for="status">Status</label>
-    <input type="text" id="status" placeholder="Statut de l'application" name="status"><br>
+    <select name="status" id="status">
+        <option value="active">Active</option>
+        <option value="deprecated">Déprécié</option>
+        <option value="trial">Expérimental</option>
+    </select><br>
     <label for="description">Description</label>
     <input type="text" id="description" placeholder="Description de l'application" name="description"><br>
 
     <button type="submit" name="modification">Envoyer</button>
-    <?php 
+<?php 
 
  if (isset($_POST["modification"])) {
 
@@ -108,6 +123,17 @@ $controler->researchById($id);
 }
 
 ?>
+
+<h2>Partie 2</h2>
+
+<h3>Cas Jennifer : Où va le budget du département </h3>
+
+
+<?php 
+    // $controler->mostCostDepartement();
+?>
+
+
 </form>
 </body>
 </html>

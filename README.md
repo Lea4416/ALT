@@ -4,7 +4,7 @@
 - Langage: php
 - Framework: aucun
 - Base de données: MySQL
-- Port API: [votre_port] (configurable)
+- Port API: [3006] (configurable)
 
 ## Quick Start
 
@@ -13,7 +13,7 @@
 2. Aucune installation de dépendance
 3. J'ai mis mes fichiers dans Wamp pour permettre l'uttilisation de php.
 4. API disponible sur http://localhost:[3306]
-5. Documentation: http://localhost:[3306]/[chemin_docs]
+5. Documentation: Je n'ai pas de documentation suplémentaire
 
 ## Configuration
 - Variables d'environnement: voir .env
