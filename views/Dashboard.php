@@ -1,5 +1,4 @@
 <?php
-require_once('./composent/header.php');
 
 $title = "Dashboard";
 
@@ -8,6 +7,8 @@ $url = "../Documentation/data/tools.json";
 $response = file_get_contents($url);
 
 $data = json_decode($response, true) ?? [];
+
+require_once('./composent/header.php');
 
 require_once('./composent/navbar.php');
 
@@ -73,7 +74,7 @@ require_once('./composent/navbar.php');
                 <tr>
                     <th class="text-start font-normal px-4 py-2">Tool</th>
                     <th class="text-start font-normal px-4 py-2 hidden sm:table-cell"">Departement</th>
-                    <th class="text-start font-normal px-4 py-2 hidden sm:table-cell">Users</th>
+                    <th class=" text-start font-normal px-4 py-2 hidden sm:table-cell">Users</th>
                     <th class="text-start font-normal px-4 py-2 hidden sm:table-cell">Monthly Cost</th>
                     <th class="text-start font-normal px-4 py-2">Status</th>
                 </tr>
@@ -81,11 +82,20 @@ require_once('./composent/navbar.php');
             <tbody class="m-10">
                 <?php foreach ($data as $item): ?>
                     <tr class="border-t border-b border-gray-300">
-                        <td class="px-4 py-2"><?= $item['name'] ?></td>
+                        <td class="px-4 py-2">
+                            <?php if (!empty($item['icon_url'])): ?>
+                                <img
+                                    class="w-10 h-10 rounded"
+                                    src="<?= $item['icon_url'] ?>"
+                                    alt=""
+                                    onerror="this.style.display='none'">
+                            <?php endif; ?>
+                            <?= $item['name'] ?>
+                        </td>
                         <td class="px-4 py-2 hidden sm:table-cell""><?= $item['owner_department'] ?></td>
-                        <td class="px-4 py-2 hidden sm:table-cell"><?= $item['active_users_count'] ?></td>
+                        <td class=" px-4 py-2 hidden sm:table-cell"><?= $item['active_users_count'] ?></td>
                         <td class="px-4 py-2 hidden sm:table-cell"><?= $item['monthly_cost'] ?></td>
-                         <?php
+                        <?php
                         $status = $item['status'];
                         if ($status === "active") {
                             $class = "bg-green-500";

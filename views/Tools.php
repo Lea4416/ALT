@@ -1,15 +1,14 @@
 <?php
-require_once('./composent/header.php');
 
-$title = "Dashboard";
+$title = "Tools";
 
-$url = "https://tt-jsonserver-01.alt-tools.tech/tools";
+$url = "../Documentation/data/tools.json";
 
 $response = file_get_contents($url);
 
 $data = json_decode($response, true) ?? [];
 
-$localData = $data;
+require_once('./composent/header.php');
 
 require_once('./composent/navbar.php');
 
@@ -38,7 +37,12 @@ require_once('./composent/navbar.php');
                     die();
                 }
                 ?>
-                <p class=" <?= $class ?> rounded-md p-1 my-1 w-fit text-center"><?= $item['status'] ?></p>
+                <p class=" <?= $class ?> rounded-md p-1 w-fit text-center"><?= $item['status'] ?></p>
+                <div>
+                    <a href="./tool_detail.php?id=<?= $item['id'] ?>" class="bg-violet-600 rounded-md w-fit text-center p-2 m-2 inline-block text-white">View details</a>
+                    <a href="./tool_update.php?id=<?= $item['id'] ?>" class="bg-violet-600 rounded-md w-fit text-center p-2 m-2 inline-block text-white">Update the tool</a>
+                    <a href="./tool_delete.php?id=<?= $item['id'] ?>" class="bg-violet-600 rounded-md w-fit text-center p-2 m-2 inline-block text-white">Delete tool</a>
+                </div>
             </div>
         <?php endforeach; ?>
     </div>
