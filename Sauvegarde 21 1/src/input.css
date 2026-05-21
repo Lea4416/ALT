@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* =========================
+   BASE PERSONNALISÉE
+========================= */
+
+@layer base {
+
+  h1 {
+    @apply font-bold text-xl pt-3;
+  }
+}
+
+/* =========================
+   COMPOSANTS RÉUTILISABLES
+========================= */
+
+@layer components {
+
+
+}

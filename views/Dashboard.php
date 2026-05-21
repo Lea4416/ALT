@@ -1,53 +1,22 @@
 <?php
 require_once('./composent/header.php');
+
 $title = "Dashboard";
 
-// $url = "http://localhost:3000/";
+$url = "../Documentation/data/tools.json";
 
-// $data = file_get_contents($url);
+$response = file_get_contents($url);
 
-// var_dump($data);
+$data = json_decode($response, true) ?? [];
+
+require_once('./composent/navbar.php');
+
 ?>
-<nav class="flex justify-between items-center p-4 bg-white shadow">
 
-    <!-- LEFT -->
-    <div class="flex items-center gap-6">
-
-        <img class="h-10 w-10 bg-gradient-to-r from-blue-400 to-violet-600 rounded-lg p-2.5"
-            src="./Asset/eclair.png"
-            alt="Eclair">
-
-        <a href="./Dashboard.php">Dashboard</a>
-        <a href="#">Tools</a>
-        <a href="#">Analytics</a>
-        <a href="#">Settings</a>
-
-    </div>
-
-    <!-- RIGHT -->
-    <div class="flex items-center gap-4">
-
-        <input class="border border-black rounded-lg px-2 py-1"
-            type="search"
-            placeholder="Search">
-
-        <button><img class="h-8 w-8" src="./Asset/lune.png" alt="Lune"></button>
-        <button><img class="h-8 w-8" src="./Asset/notification.png" alt="Notification"></button>
-        <button><img class="h-8 w-8" src="./Asset/parametre.png" alt="Paramètres"></button>
-
-        <button>
-            <div class="h-8 w-8 bg-gray-100 rounded-full"></div>
-        </button>
-
-        <button>▼</button>
-
-    </div>
-
-</nav>
 <main class="bg-gray-100 mx-4 p-4">
     <h1 class="font-bold text-xl pt-3">Internal Tools Dahboard</h1>
     <p>Monitor and manage your organization's software tools and expenses</p>
-    <div class="grid grid-cols-4 m-4">
+    <div class="grid grid-cols-1 lg:grid-cols-4 m-4">
         <div class="bg-white p2 items-start p-6 rounded-md mx-1 shadow-sm">
             <div class="flex justify-between">
                 <p class="pb-3">Monthly Budget</p>
@@ -90,85 +59,56 @@ $title = "Dashboard";
         </div>
     </div>
 
-    <div class="bg-white rounded-lg px-2">
+    <div class="bg-white rounded-lg p-4">
         <div class="flex justify-between">
             <h2 class="font-bold">Recent Tools</h2>
             <div class="flex items-center">
-            <img class="h-8 w-8" src="./Asset/calendrier.png" alt="Calendar">
-            <p>last 30 days</p>
+                <img class="h-8 w-8" src="./Asset/calendrier.png" alt="Calendar">
+                <p>last 30 days</p>
             </div>
         </div>
-        <table class="w-full text-start my-2">
+
+        <table class="w-full text-start m-3 p-4 sm:text-sm">
             <thead>
                 <tr>
-                    <th class="text-start font-normal">Tool</th>
-                    <th class="text-start font-normal">Departement</th>
-                    <th class="text-start font-normal">Users</th>
-                    <th class="text-start font-normal">Monthly Cost</th>
-                    <th class="text-start font-normal">Status</th>
+                    <th class="text-start font-normal px-4 py-2">Tool</th>
+                    <th class="text-start font-normal px-4 py-2 hidden sm:table-cell"">Departement</th>
+                    <th class="text-start font-normal px-4 py-2 hidden sm:table-cell">Users</th>
+                    <th class="text-start font-normal px-4 py-2 hidden sm:table-cell">Monthly Cost</th>
+                    <th class="text-start font-normal px-4 py-2">Status</th>
                 </tr>
             </thead>
-            <tbody>
-                <tr class="border-t border-b border-gray-300">
-                    <td>Slack</td>
-                    <td>Communication</td>
-                    <td>245</td>
-                    <td>€2,450</td>
-                    <td>Active</td>
-                </tr>
-                <tr>
-                    <td>Figma</td>
-                    <td>Design</td>
-                    <td>32</td>
-                    <td>€480</td>
-                    <td>Active</td>
-                </tr>
-                <tr>
-                    <td>Github</td>
-                    <td>Engineering</td>
-                    <td>89</td>
-                    <td>€890</td>
-                    <td>Active</td>
-                </tr>
-                <tr>
-                    <td>Notion</td>
-                    <td>Operations</td>
-                    <td>156</td>
-                    <td>€780</td>
-                    <td>Expiring</td>
-                </tr>
-                <tr>
-                    <td>Adobe CC</td>
-                    <td>Marketing</td>
-                    <td>12</td>
-                    <td>€720</td>
-                    <td>Unused</td>
-                    </td>
-                <tr>
-                    <td>Zoom</td>
-                    <td>Communications</td>
-                    <td>198</td>
-                    <td>€1,980</td>
-                    <td>Active</td>
-                </tr>
-                <tr>
-                    <td>Jira</td>
-                    <td>Engineering</td>
-                    <td>67</td>
-                    <td>€670</td>
-                    <td>Expiring</td>
-                </tr>
-                <tr>
-                    <td>Salesforce</td>
-                    <td>Sales</td>
-                    <td>45</td>
-                    <td>€4,500</td>
-                    <td>Active</td>
-                </tr>
+            <tbody class="m-10">
+                <?php foreach ($data as $item): ?>
+                    <tr class="border-t border-b border-gray-300">
+                        <td class="px-4 py-2"><?= $item['name'] ?></td>
+                        <td class="px-4 py-2 hidden sm:table-cell""><?= $item['owner_department'] ?></td>
+                        <td class="px-4 py-2 hidden sm:table-cell"><?= $item['active_users_count'] ?></td>
+                        <td class="px-4 py-2 hidden sm:table-cell"><?= $item['monthly_cost'] ?></td>
+                         <?php
+                        $status = $item['status'];
+                        if ($status === "active") {
+                            $class = "bg-green-500";
+                        } elseif ($status === "expiring") {
+                            $class = "bg-red-500";
+                        } elseif ($status === "unused") {
+                            $class = "bg-orange-500";
+                        } else {
+                            echo "Il y a un probléme de status";
+                            die();
+                        }
+                        ?>
+                        <td class="px-4 py-2">
+                            <span class="<?= $class ?> rounded-md p-1 my-1">
+                                <?= $item['status'] ?>
+                            </span>
+                        </td>
+                    </tr>
+                <?php endforeach; ?>
             </tbody>
         </table>
     </div>
 </main>
 <?php
-require_once('./composent/footer.php')
+require_once('./composent/footer.php');
 ?>

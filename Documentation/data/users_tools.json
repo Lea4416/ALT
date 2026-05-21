@@ -1,0 +1,6603 @@
+[
+    {
+        "user_id": 22,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-05T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 58,
+        "tool_id": 1,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 4,
+        "tool_id": 1,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 38,
+        "tool_id": 1,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-06T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 41,
+        "tool_id": 1,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-25T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 3,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-16T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 6,
+        "tool_id": 1,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-11T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 44,
+        "tool_id": 1,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 35,
+        "tool_id": 1,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-15T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 9,
+        "tool_id": 1,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 51,
+        "tool_id": 1,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 17,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-02-23T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 64,
+        "tool_id": 1,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 12,
+        "tool_id": 1,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 36,
+        "tool_id": 1,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-29T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 24,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-12T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 47,
+        "tool_id": 1,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-23T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 7,
+        "tool_id": 1,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-11T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 11,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-17T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 5,
+        "tool_id": 1,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 54,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-02T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 30,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-02T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 1,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 61,
+        "tool_id": 1,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 56,
+        "tool_id": 1,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 50,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-17T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 57,
+        "tool_id": 1,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 32,
+        "tool_id": 1,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 13,
+        "tool_id": 1,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 34,
+        "tool_id": 1,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 33,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-26T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 29,
+        "tool_id": 1,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-21T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 26,
+        "tool_id": 1,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 21,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-26T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 59,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-06T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 27,
+        "tool_id": 1,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-05T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 10,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-10T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 28,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-01T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 18,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-02-21T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 52,
+        "tool_id": 1,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 65,
+        "tool_id": 1,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 23,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-12T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 66,
+        "tool_id": 1,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 55,
+        "tool_id": 1,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-09T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 43,
+        "tool_id": 1,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 14,
+        "tool_id": 1,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 20,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-03T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 60,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-21T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 15,
+        "tool_id": 1,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 8,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-18T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 2,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-13T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 48,
+        "tool_id": 1,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 46,
+        "tool_id": 1,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-21T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 45,
+        "tool_id": 1,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-19T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 40,
+        "tool_id": 1,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 19,
+        "tool_id": 1,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-07T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 37,
+        "tool_id": 1,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 49,
+        "tool_id": 1,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 31,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-08T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 42,
+        "tool_id": 1,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 53,
+        "tool_id": 1,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 25,
+        "tool_id": 1,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-20T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 63,
+        "tool_id": 1,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-02T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 16,
+        "tool_id": 1,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-30T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 39,
+        "tool_id": 1,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-27T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 23,
+        "tool_id": 2,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 25,
+        "tool_id": 2,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-19T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 2,
+        "tool_id": 2,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-08T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 56,
+        "tool_id": 2,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-16T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 24,
+        "tool_id": 2,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-19T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 38,
+        "tool_id": 2,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 47,
+        "tool_id": 2,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-09T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 48,
+        "tool_id": 2,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 2,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 63,
+        "tool_id": 2,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 51,
+        "tool_id": 2,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 34,
+        "tool_id": 2,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 46,
+        "tool_id": 2,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-05T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 14,
+        "tool_id": 2,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-09T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 40,
+        "tool_id": 2,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 43,
+        "tool_id": 2,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-10T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 31,
+        "tool_id": 2,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-14T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 66,
+        "tool_id": 2,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 49,
+        "tool_id": 2,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 9,
+        "tool_id": 2,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 27,
+        "tool_id": 2,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-21T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 52,
+        "tool_id": 2,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-06T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 35,
+        "tool_id": 2,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-25T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 21,
+        "tool_id": 2,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-30T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 41,
+        "tool_id": 2,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 50,
+        "tool_id": 2,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-06T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 12,
+        "tool_id": 3,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 38,
+        "tool_id": 3,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-07T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 6,
+        "tool_id": 3,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-06T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 5,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 66,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 21,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 28,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 42,
+        "tool_id": 3,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-21T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 10,
+        "tool_id": 3,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 19,
+        "tool_id": 3,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 34,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 11,
+        "tool_id": 3,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 36,
+        "tool_id": 3,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-27T08:44:15.282Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 39,
+        "tool_id": 3,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 52,
+        "tool_id": 3,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-25T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 14,
+        "tool_id": 3,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-21T08:44:15.282Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 40,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.282Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 49,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.282Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 25,
+        "tool_id": 3,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-30T08:44:15.284Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 50,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.284Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 56,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.284Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 60,
+        "tool_id": 3,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.284Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 47,
+        "tool_id": 3,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-05T08:44:15.284Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 45,
+        "tool_id": 3,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-31T08:44:15.284Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 44,
+        "tool_id": 3,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-17T08:44:15.284Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 54,
+        "tool_id": 3,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-01T08:44:15.284Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 8,
+        "tool_id": 3,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.284Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 2,
+        "tool_id": 3,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-19T08:44:15.284Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 64,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.284Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 51,
+        "tool_id": 3,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-07T08:44:15.284Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 24,
+        "tool_id": 3,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.284Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 23,
+        "tool_id": 3,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.284Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 30,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.284Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 22,
+        "tool_id": 3,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-03T08:44:15.284Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 43,
+        "tool_id": 3,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-04T08:44:15.284Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 13,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.284Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 57,
+        "tool_id": 3,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-13T08:44:15.284Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 15,
+        "tool_id": 3,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-19T08:44:15.284Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 3,
+        "tool_id": 3,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.284Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 59,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.284Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 37,
+        "tool_id": 3,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-08T08:44:15.284Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 32,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.284Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 17,
+        "tool_id": 3,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.284Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 16,
+        "tool_id": 3,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-21T08:44:15.284Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 46,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 4,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 65,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 18,
+        "tool_id": 3,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-08T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 35,
+        "tool_id": 3,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-16T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 55,
+        "tool_id": 3,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 26,
+        "tool_id": 3,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-05T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 58,
+        "tool_id": 3,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-02T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 9,
+        "tool_id": 3,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 29,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 33,
+        "tool_id": 3,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-28T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 48,
+        "tool_id": 3,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-03T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 61,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 53,
+        "tool_id": 3,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 20,
+        "tool_id": 3,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 3,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-06T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 7,
+        "tool_id": 3,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-04T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 41,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 31,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 27,
+        "tool_id": 3,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 63,
+        "tool_id": 3,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 32,
+        "tool_id": 4,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 4,
+        "tool_id": 4,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 64,
+        "tool_id": 4,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 51,
+        "tool_id": 4,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 33,
+        "tool_id": 4,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-03T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 20,
+        "tool_id": 4,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-29T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 37,
+        "tool_id": 4,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 16,
+        "tool_id": 4,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 24,
+        "tool_id": 4,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 47,
+        "tool_id": 4,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 39,
+        "tool_id": 4,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-27T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 43,
+        "tool_id": 4,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 63,
+        "tool_id": 4,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 46,
+        "tool_id": 4,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 25,
+        "tool_id": 4,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-17T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 52,
+        "tool_id": 4,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 6,
+        "tool_id": 4,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 50,
+        "tool_id": 4,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 53,
+        "tool_id": 4,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 17,
+        "tool_id": 4,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-24T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 23,
+        "tool_id": 4,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-31T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 65,
+        "tool_id": 4,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-30T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 45,
+        "tool_id": 4,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 40,
+        "tool_id": 4,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-27T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 41,
+        "tool_id": 4,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-04T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 27,
+        "tool_id": 4,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 48,
+        "tool_id": 4,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-19T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 4,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 57,
+        "tool_id": 4,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 2,
+        "tool_id": 4,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 19,
+        "tool_id": 4,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-19T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 9,
+        "tool_id": 4,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-24T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 42,
+        "tool_id": 4,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 3,
+        "tool_id": 4,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 61,
+        "tool_id": 4,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-15T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 58,
+        "tool_id": 4,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-13T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 35,
+        "tool_id": 4,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-02T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 36,
+        "tool_id": 4,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 55,
+        "tool_id": 4,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-27T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 14,
+        "tool_id": 4,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-09T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 15,
+        "tool_id": 4,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 12,
+        "tool_id": 4,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 56,
+        "tool_id": 4,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 10,
+        "tool_id": 4,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 21,
+        "tool_id": 4,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 13,
+        "tool_id": 4,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-08T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 38,
+        "tool_id": 4,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 54,
+        "tool_id": 4,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-08T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 34,
+        "tool_id": 4,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-01T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 7,
+        "tool_id": 4,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 60,
+        "tool_id": 4,
+        "usage_frequency": "rarely",
+        "last_used": "2026-02-27T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 59,
+        "tool_id": 4,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-22T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 5,
+        "tool_id": 4,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-10T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 30,
+        "tool_id": 4,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 22,
+        "tool_id": 4,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 44,
+        "tool_id": 4,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-14T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 66,
+        "tool_id": 4,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 31,
+        "tool_id": 4,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-17T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 28,
+        "tool_id": 4,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-21T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 26,
+        "tool_id": 4,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 8,
+        "tool_id": 4,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-09T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 29,
+        "tool_id": 4,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-17T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 18,
+        "tool_id": 4,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-09T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 49,
+        "tool_id": 4,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 11,
+        "tool_id": 4,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 21,
+        "tool_id": 5,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-27T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 29,
+        "tool_id": 5,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-14T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 4,
+        "tool_id": 5,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 35,
+        "tool_id": 5,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-13T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 58,
+        "tool_id": 5,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 60,
+        "tool_id": 5,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 52,
+        "tool_id": 5,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-07T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 26,
+        "tool_id": 5,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-11T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 28,
+        "tool_id": 5,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 14,
+        "tool_id": 5,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 40,
+        "tool_id": 5,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 32,
+        "tool_id": 5,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-27T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 56,
+        "tool_id": 5,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 18,
+        "tool_id": 5,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-02T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 54,
+        "tool_id": 5,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 49,
+        "tool_id": 6,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-17T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 2,
+        "tool_id": 6,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 10,
+        "tool_id": 6,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 20,
+        "tool_id": 6,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 50,
+        "tool_id": 6,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 60,
+        "tool_id": 6,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-04T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 53,
+        "tool_id": 6,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-12T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 22,
+        "tool_id": 6,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 35,
+        "tool_id": 6,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 3,
+        "tool_id": 6,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 8,
+        "tool_id": 6,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-11T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 11,
+        "tool_id": 6,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-26T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 5,
+        "tool_id": 6,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-25T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 61,
+        "tool_id": 6,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-07T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 37,
+        "tool_id": 6,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-04T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 16,
+        "tool_id": 6,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-16T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 4,
+        "tool_id": 6,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 42,
+        "tool_id": 6,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-10T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 44,
+        "tool_id": 6,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 29,
+        "tool_id": 6,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-25T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 66,
+        "tool_id": 6,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 25,
+        "tool_id": 6,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-26T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 13,
+        "tool_id": 6,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 38,
+        "tool_id": 6,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-17T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 6,
+        "tool_id": 6,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-26T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 65,
+        "tool_id": 6,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-01T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 30,
+        "tool_id": 6,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 57,
+        "tool_id": 6,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 64,
+        "tool_id": 6,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-16T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 51,
+        "tool_id": 6,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 40,
+        "tool_id": 6,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-24T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 55,
+        "tool_id": 6,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 46,
+        "tool_id": 6,
+        "usage_frequency": "rarely",
+        "last_used": "2026-02-25T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 33,
+        "tool_id": 6,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-19T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 17,
+        "tool_id": 6,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-02T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 63,
+        "tool_id": 6,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 58,
+        "tool_id": 6,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 6,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-17T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 18,
+        "tool_id": 6,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-29T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 12,
+        "tool_id": 6,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 47,
+        "tool_id": 6,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-17T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 27,
+        "tool_id": 6,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 21,
+        "tool_id": 6,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 28,
+        "tool_id": 6,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 15,
+        "tool_id": 6,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 52,
+        "tool_id": 6,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 43,
+        "tool_id": 6,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-14T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 23,
+        "tool_id": 6,
+        "usage_frequency": "rarely",
+        "last_used": "2026-02-25T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 7,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 27,
+        "tool_id": 7,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 52,
+        "tool_id": 7,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-18T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 56,
+        "tool_id": 7,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 65,
+        "tool_id": 7,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 6,
+        "tool_id": 7,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-30T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 49,
+        "tool_id": 7,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 3,
+        "tool_id": 7,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-29T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 20,
+        "tool_id": 7,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 51,
+        "tool_id": 7,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 13,
+        "tool_id": 7,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 25,
+        "tool_id": 7,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-22T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 61,
+        "tool_id": 7,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-16T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 9,
+        "tool_id": 7,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 33,
+        "tool_id": 7,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 54,
+        "tool_id": 7,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 14,
+        "tool_id": 7,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 39,
+        "tool_id": 7,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-30T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 63,
+        "tool_id": 7,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-12T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 58,
+        "tool_id": 7,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-23T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 12,
+        "tool_id": 7,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 31,
+        "tool_id": 7,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-29T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 5,
+        "tool_id": 7,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-01T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 4,
+        "tool_id": 7,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 30,
+        "tool_id": 7,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 8,
+        "tool_id": 7,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 21,
+        "tool_id": 7,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-27T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 37,
+        "tool_id": 7,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-14T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 41,
+        "tool_id": 7,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 18,
+        "tool_id": 7,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-30T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 40,
+        "tool_id": 7,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 46,
+        "tool_id": 7,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-02T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 23,
+        "tool_id": 7,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-10T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 22,
+        "tool_id": 7,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-28T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 36,
+        "tool_id": 7,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 45,
+        "tool_id": 7,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-25T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 24,
+        "tool_id": 7,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-22T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 2,
+        "tool_id": 7,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-10T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 55,
+        "tool_id": 7,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-02T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 66,
+        "tool_id": 7,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-16T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 16,
+        "tool_id": 7,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 60,
+        "tool_id": 7,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 42,
+        "tool_id": 7,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 7,
+        "tool_id": 7,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-04T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 50,
+        "tool_id": 7,
+        "usage_frequency": "rarely",
+        "last_used": "2026-02-28T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 10,
+        "tool_id": 7,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 35,
+        "tool_id": 7,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-29T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 32,
+        "tool_id": 7,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-11T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 19,
+        "tool_id": 7,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-05T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 57,
+        "tool_id": 7,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 59,
+        "tool_id": 7,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-28T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 11,
+        "tool_id": 7,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-28T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 53,
+        "tool_id": 7,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-26T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 43,
+        "tool_id": 7,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 29,
+        "tool_id": 7,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 34,
+        "tool_id": 7,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-07T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 64,
+        "tool_id": 7,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-04T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 26,
+        "tool_id": 7,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 44,
+        "tool_id": 7,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 17,
+        "tool_id": 7,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-10T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 15,
+        "tool_id": 7,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-06T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 28,
+        "tool_id": 7,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-29T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 48,
+        "tool_id": 7,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 38,
+        "tool_id": 7,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 47,
+        "tool_id": 7,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 56,
+        "tool_id": 8,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 16,
+        "tool_id": 8,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-20T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 42,
+        "tool_id": 8,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 20,
+        "tool_id": 8,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-04T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 50,
+        "tool_id": 8,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-31T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 18,
+        "tool_id": 8,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 25,
+        "tool_id": 8,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-21T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 37,
+        "tool_id": 8,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-08T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 48,
+        "tool_id": 8,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 10,
+        "tool_id": 8,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 41,
+        "tool_id": 8,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-03T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 17,
+        "tool_id": 8,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-10T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 8,
+        "tool_id": 8,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 30,
+        "tool_id": 8,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 14,
+        "tool_id": 8,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-07T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 11,
+        "tool_id": 8,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-21T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 6,
+        "tool_id": 8,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 38,
+        "tool_id": 8,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 35,
+        "tool_id": 8,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-11T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 39,
+        "tool_id": 8,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 29,
+        "tool_id": 8,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 58,
+        "tool_id": 8,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-30T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 49,
+        "tool_id": 8,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-15T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 43,
+        "tool_id": 8,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-30T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 7,
+        "tool_id": 8,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 59,
+        "tool_id": 8,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 51,
+        "tool_id": 8,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-03T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 21,
+        "tool_id": 8,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 3,
+        "tool_id": 8,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-19T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 9,
+        "tool_id": 8,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 46,
+        "tool_id": 8,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 31,
+        "tool_id": 8,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-12T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 8,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-06T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 63,
+        "tool_id": 8,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-06T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 65,
+        "tool_id": 8,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-01T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 33,
+        "tool_id": 8,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-02T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 44,
+        "tool_id": 8,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 13,
+        "tool_id": 8,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 12,
+        "tool_id": 8,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 23,
+        "tool_id": 8,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-19T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 34,
+        "tool_id": 8,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-19T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 27,
+        "tool_id": 8,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-28T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 5,
+        "tool_id": 8,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 57,
+        "tool_id": 8,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 28,
+        "tool_id": 8,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-05T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 19,
+        "tool_id": 8,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 36,
+        "tool_id": 8,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-12T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 55,
+        "tool_id": 8,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 4,
+        "tool_id": 8,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-11T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 66,
+        "tool_id": 8,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-22T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 53,
+        "tool_id": 8,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 24,
+        "tool_id": 8,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 61,
+        "tool_id": 8,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-10T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 32,
+        "tool_id": 8,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 45,
+        "tool_id": 8,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-26T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 52,
+        "tool_id": 8,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-30T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 22,
+        "tool_id": 9,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-03T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 61,
+        "tool_id": 9,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-06T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 6,
+        "tool_id": 9,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 27,
+        "tool_id": 9,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 63,
+        "tool_id": 9,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-28T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 36,
+        "tool_id": 9,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-10T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 57,
+        "tool_id": 9,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 19,
+        "tool_id": 9,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-26T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 10,
+        "tool_id": 9,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-07T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 31,
+        "tool_id": 9,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-26T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 42,
+        "tool_id": 9,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 66,
+        "tool_id": 9,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-27T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 9,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 37,
+        "tool_id": 9,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 5,
+        "tool_id": 9,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 54,
+        "tool_id": 9,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 64,
+        "tool_id": 10,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-01T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 54,
+        "tool_id": 10,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-03T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 36,
+        "tool_id": 10,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 18,
+        "tool_id": 10,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 55,
+        "tool_id": 10,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-10T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 23,
+        "tool_id": 10,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 17,
+        "tool_id": 10,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 20,
+        "tool_id": 10,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-07T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 63,
+        "tool_id": 10,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 7,
+        "tool_id": 10,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 10,
+        "tool_id": 10,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-24T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 48,
+        "tool_id": 10,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-16T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 40,
+        "tool_id": 10,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-17T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 38,
+        "tool_id": 10,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 66,
+        "tool_id": 10,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 52,
+        "tool_id": 10,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 3,
+        "tool_id": 10,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 2,
+        "tool_id": 10,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-08T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 14,
+        "tool_id": 10,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-13T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 46,
+        "tool_id": 10,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 6,
+        "tool_id": 10,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-24T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 42,
+        "tool_id": 10,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-24T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 31,
+        "tool_id": 10,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 39,
+        "tool_id": 10,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 57,
+        "tool_id": 10,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-29T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 10,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-06T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 45,
+        "tool_id": 10,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 24,
+        "tool_id": 10,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.285Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 8,
+        "tool_id": 10,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-18T08:44:15.285Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 5,
+        "tool_id": 10,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.285Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 28,
+        "tool_id": 11,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.285Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 63,
+        "tool_id": 11,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 50,
+        "tool_id": 11,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-12T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 55,
+        "tool_id": 11,
+        "usage_frequency": "rarely",
+        "last_used": "2026-02-27T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 47,
+        "tool_id": 11,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-19T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 5,
+        "tool_id": 11,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-07T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 31,
+        "tool_id": 11,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 6,
+        "tool_id": 11,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-23T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 38,
+        "tool_id": 11,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 59,
+        "tool_id": 11,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-05T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 35,
+        "tool_id": 11,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 34,
+        "tool_id": 11,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 51,
+        "tool_id": 11,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 53,
+        "tool_id": 11,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-11T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 8,
+        "tool_id": 11,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-05T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 56,
+        "tool_id": 11,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 17,
+        "tool_id": 11,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-15T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 10,
+        "tool_id": 11,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-05T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 21,
+        "tool_id": 11,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-13T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 14,
+        "tool_id": 11,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 22,
+        "tool_id": 11,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 7,
+        "tool_id": 11,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 40,
+        "tool_id": 11,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-16T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 52,
+        "tool_id": 11,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-05T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 30,
+        "tool_id": 11,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 44,
+        "tool_id": 11,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-13T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 27,
+        "tool_id": 11,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-10T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 64,
+        "tool_id": 11,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-19T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 2,
+        "tool_id": 11,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 13,
+        "tool_id": 11,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 43,
+        "tool_id": 11,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-01T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 20,
+        "tool_id": 11,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 24,
+        "tool_id": 11,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-15T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 39,
+        "tool_id": 11,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 45,
+        "tool_id": 11,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-05T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 25,
+        "tool_id": 11,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 42,
+        "tool_id": 11,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 49,
+        "tool_id": 11,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 58,
+        "tool_id": 11,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 11,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 37,
+        "tool_id": 11,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 11,
+        "tool_id": 11,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-02T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 23,
+        "tool_id": 11,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 29,
+        "tool_id": 11,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 26,
+        "tool_id": 11,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 29,
+        "tool_id": 12,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-24T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 31,
+        "tool_id": 12,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-19T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 49,
+        "tool_id": 12,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 52,
+        "tool_id": 12,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 6,
+        "tool_id": 12,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 11,
+        "tool_id": 12,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-16T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 14,
+        "tool_id": 12,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-09T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 66,
+        "tool_id": 12,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 44,
+        "tool_id": 12,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 19,
+        "tool_id": 12,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 50,
+        "tool_id": 12,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-04T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 59,
+        "tool_id": 12,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 45,
+        "tool_id": 12,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-13T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 51,
+        "tool_id": 12,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 4,
+        "tool_id": 12,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 34,
+        "tool_id": 12,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-08T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 42,
+        "tool_id": 12,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 7,
+        "tool_id": 12,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-19T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 12,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-23T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 39,
+        "tool_id": 12,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-25T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 26,
+        "tool_id": 12,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-13T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 37,
+        "tool_id": 12,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-16T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 3,
+        "tool_id": 12,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-02T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 5,
+        "tool_id": 12,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-18T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 24,
+        "tool_id": 12,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 17,
+        "tool_id": 12,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-16T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 63,
+        "tool_id": 12,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-16T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 54,
+        "tool_id": 13,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 47,
+        "tool_id": 13,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-08T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 66,
+        "tool_id": 13,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 18,
+        "tool_id": 13,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-22T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 59,
+        "tool_id": 13,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-05T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 48,
+        "tool_id": 13,
+        "usage_frequency": "rarely",
+        "last_used": "2026-02-24T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 30,
+        "tool_id": 13,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 27,
+        "tool_id": 13,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 41,
+        "tool_id": 13,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 11,
+        "tool_id": 13,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-26T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 58,
+        "tool_id": 13,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-07T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 14,
+        "tool_id": 13,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 20,
+        "tool_id": 13,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 29,
+        "tool_id": 13,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 16,
+        "tool_id": 13,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-26T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 32,
+        "tool_id": 13,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-02T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 49,
+        "tool_id": 13,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 36,
+        "tool_id": 13,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 46,
+        "tool_id": 13,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-27T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 38,
+        "tool_id": 13,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-12T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 8,
+        "tool_id": 13,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 37,
+        "tool_id": 13,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-19T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 26,
+        "tool_id": 13,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-14T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 9,
+        "tool_id": 13,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-06T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 2,
+        "tool_id": 13,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 21,
+        "tool_id": 13,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-25T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 55,
+        "tool_id": 13,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 39,
+        "tool_id": 13,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-19T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 31,
+        "tool_id": 13,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 24,
+        "tool_id": 13,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 7,
+        "tool_id": 13,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-14T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 61,
+        "tool_id": 13,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 15,
+        "tool_id": 13,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 60,
+        "tool_id": 13,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 63,
+        "tool_id": 13,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 43,
+        "tool_id": 13,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 42,
+        "tool_id": 13,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 51,
+        "tool_id": 13,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 44,
+        "tool_id": 13,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-06T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 17,
+        "tool_id": 13,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 6,
+        "tool_id": 13,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 3,
+        "tool_id": 13,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-12T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 5,
+        "tool_id": 13,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 34,
+        "tool_id": 13,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-25T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 56,
+        "tool_id": 13,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 22,
+        "tool_id": 13,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 13,
+        "tool_id": 13,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-28T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 52,
+        "tool_id": 13,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 57,
+        "tool_id": 13,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 50,
+        "tool_id": 13,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 65,
+        "tool_id": 13,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-23T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 28,
+        "tool_id": 13,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-30T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 23,
+        "tool_id": 13,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 13,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 25,
+        "tool_id": 13,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-11T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 33,
+        "tool_id": 13,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-09T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 35,
+        "tool_id": 13,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-07T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 64,
+        "tool_id": 13,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 10,
+        "tool_id": 13,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-06T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 4,
+        "tool_id": 13,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 12,
+        "tool_id": 13,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-23T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 53,
+        "tool_id": 13,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 56,
+        "tool_id": 14,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-30T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 51,
+        "tool_id": 14,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 17,
+        "tool_id": 14,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 45,
+        "tool_id": 14,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 58,
+        "tool_id": 14,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 63,
+        "tool_id": 14,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 38,
+        "tool_id": 14,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-14T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 55,
+        "tool_id": 14,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 8,
+        "tool_id": 14,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 36,
+        "tool_id": 14,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-12T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 18,
+        "tool_id": 14,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-14T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 40,
+        "tool_id": 14,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 14,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-01T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 32,
+        "tool_id": 14,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-03T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 7,
+        "tool_id": 14,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-03T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 33,
+        "tool_id": 14,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 14,
+        "tool_id": 14,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 10,
+        "tool_id": 14,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-28T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 46,
+        "tool_id": 14,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-18T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 2,
+        "tool_id": 14,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 64,
+        "tool_id": 14,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-23T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 16,
+        "tool_id": 14,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 4,
+        "tool_id": 15,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 17,
+        "tool_id": 15,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-21T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 24,
+        "tool_id": 15,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-10T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 53,
+        "tool_id": 15,
+        "usage_frequency": "rarely",
+        "last_used": "2026-02-27T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 63,
+        "tool_id": 15,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-15T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 21,
+        "tool_id": 15,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-15T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 49,
+        "tool_id": 15,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-09T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 36,
+        "tool_id": 15,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-04T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 15,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 60,
+        "tool_id": 15,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 3,
+        "tool_id": 15,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 33,
+        "tool_id": 15,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 7,
+        "tool_id": 15,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-03T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 65,
+        "tool_id": 15,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 54,
+        "tool_id": 15,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 22,
+        "tool_id": 15,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 25,
+        "tool_id": 15,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 6,
+        "tool_id": 15,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 15,
+        "tool_id": 15,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 32,
+        "tool_id": 15,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-02T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 41,
+        "tool_id": 15,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 43,
+        "tool_id": 15,
+        "usage_frequency": "rarely",
+        "last_used": "2026-02-27T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 46,
+        "tool_id": 15,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-01T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 57,
+        "tool_id": 15,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-29T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 39,
+        "tool_id": 15,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-25T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 14,
+        "tool_id": 15,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 26,
+        "tool_id": 15,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-19T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 13,
+        "tool_id": 15,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-28T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 61,
+        "tool_id": 15,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-09T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 5,
+        "tool_id": 15,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-19T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 31,
+        "tool_id": 15,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-08T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 47,
+        "tool_id": 15,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-19T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 59,
+        "tool_id": 16,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-13T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 7,
+        "tool_id": 16,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 52,
+        "tool_id": 16,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-23T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 51,
+        "tool_id": 16,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 16,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-25T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 35,
+        "tool_id": 16,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 58,
+        "tool_id": 16,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-25T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 55,
+        "tool_id": 16,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-04T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 44,
+        "tool_id": 16,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 28,
+        "tool_id": 16,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 31,
+        "tool_id": 16,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 2,
+        "tool_id": 16,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 3,
+        "tool_id": 16,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-25T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 23,
+        "tool_id": 16,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-15T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 24,
+        "tool_id": 16,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 33,
+        "tool_id": 16,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 21,
+        "tool_id": 16,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 6,
+        "tool_id": 16,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 45,
+        "tool_id": 16,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 22,
+        "tool_id": 16,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-23T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 64,
+        "tool_id": 16,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 48,
+        "tool_id": 16,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-25T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 10,
+        "tool_id": 16,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 56,
+        "tool_id": 16,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 14,
+        "tool_id": 16,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 19,
+        "tool_id": 16,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 18,
+        "tool_id": 16,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 26,
+        "tool_id": 16,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-18T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 27,
+        "tool_id": 16,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-28T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 50,
+        "tool_id": 16,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 34,
+        "tool_id": 16,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 39,
+        "tool_id": 16,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-21T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 38,
+        "tool_id": 16,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-06T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 5,
+        "tool_id": 16,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-05T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 47,
+        "tool_id": 16,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-30T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 12,
+        "tool_id": 16,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 60,
+        "tool_id": 17,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-10T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 49,
+        "tool_id": 17,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 48,
+        "tool_id": 17,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 58,
+        "tool_id": 17,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 52,
+        "tool_id": 17,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-09T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 59,
+        "tool_id": 17,
+        "usage_frequency": "rarely",
+        "last_used": "2026-02-23T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 4,
+        "tool_id": 17,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-28T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 17,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-10T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 56,
+        "tool_id": 17,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-18T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 37,
+        "tool_id": 17,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 5,
+        "tool_id": 17,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 31,
+        "tool_id": 17,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-06T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 17,
+        "tool_id": 17,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-16T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 16,
+        "tool_id": 17,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-01T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 11,
+        "tool_id": 17,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 19,
+        "tool_id": 17,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 57,
+        "tool_id": 17,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 43,
+        "tool_id": 17,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-05T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 2,
+        "tool_id": 17,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-25T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 33,
+        "tool_id": 17,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-05T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 28,
+        "tool_id": 17,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-29T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 45,
+        "tool_id": 17,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 23,
+        "tool_id": 17,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-27T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 54,
+        "tool_id": 17,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-18T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 66,
+        "tool_id": 17,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 40,
+        "tool_id": 17,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 61,
+        "tool_id": 17,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-02T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 20,
+        "tool_id": 17,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 55,
+        "tool_id": 17,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-01T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 39,
+        "tool_id": 17,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 9,
+        "tool_id": 17,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 64,
+        "tool_id": 17,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 18,
+        "tool_id": 17,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 15,
+        "tool_id": 17,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 11,
+        "tool_id": 18,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 22,
+        "tool_id": 18,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-04T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 8,
+        "tool_id": 18,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-26T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 5,
+        "tool_id": 18,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 35,
+        "tool_id": 18,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-05T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 6,
+        "tool_id": 18,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 57,
+        "tool_id": 18,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 47,
+        "tool_id": 18,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 7,
+        "tool_id": 18,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 52,
+        "tool_id": 18,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 12,
+        "tool_id": 18,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-04T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 3,
+        "tool_id": 18,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-10T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 4,
+        "tool_id": 18,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-09T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 10,
+        "tool_id": 18,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 38,
+        "tool_id": 18,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-10T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 18,
+        "tool_id": 18,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 30,
+        "tool_id": 18,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 9,
+        "tool_id": 18,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-03T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 23,
+        "tool_id": 18,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-16T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 54,
+        "tool_id": 18,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-13T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 49,
+        "tool_id": 18,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 65,
+        "tool_id": 18,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-06T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 17,
+        "tool_id": 18,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-23T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 2,
+        "tool_id": 18,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 59,
+        "tool_id": 18,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 20,
+        "tool_id": 18,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-14T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 50,
+        "tool_id": 18,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-05T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 27,
+        "tool_id": 18,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-09T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 61,
+        "tool_id": 18,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-11T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 18,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-02T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 16,
+        "tool_id": 18,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-14T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 55,
+        "tool_id": 18,
+        "usage_frequency": "rarely",
+        "last_used": "2026-02-25T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 34,
+        "tool_id": 18,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-26T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 24,
+        "tool_id": 18,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-22T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 51,
+        "tool_id": 18,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 60,
+        "tool_id": 18,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-29T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 48,
+        "tool_id": 18,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 25,
+        "tool_id": 18,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-06T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 53,
+        "tool_id": 18,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-26T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 63,
+        "tool_id": 18,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 58,
+        "tool_id": 18,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 66,
+        "tool_id": 18,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.286Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 44,
+        "tool_id": 18,
+        "usage_frequency": "rarely",
+        "last_used": "2026-02-23T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 29,
+        "tool_id": 18,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-06T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 36,
+        "tool_id": 18,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-03T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 39,
+        "tool_id": 18,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.286Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 56,
+        "tool_id": 18,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 15,
+        "tool_id": 19,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.286Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 50,
+        "tool_id": 19,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-27T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 39,
+        "tool_id": 19,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 22,
+        "tool_id": 19,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 11,
+        "tool_id": 19,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 5,
+        "tool_id": 19,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-19T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 25,
+        "tool_id": 19,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-06T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 65,
+        "tool_id": 19,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 52,
+        "tool_id": 19,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 60,
+        "tool_id": 19,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-06T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 3,
+        "tool_id": 19,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 24,
+        "tool_id": 19,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 48,
+        "tool_id": 19,
+        "usage_frequency": "rarely",
+        "last_used": "2026-02-20T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 6,
+        "tool_id": 19,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-10T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 54,
+        "tool_id": 19,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 58,
+        "tool_id": 19,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-19T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 16,
+        "tool_id": 20,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 47,
+        "tool_id": 20,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 28,
+        "tool_id": 20,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-25T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 60,
+        "tool_id": 20,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 5,
+        "tool_id": 20,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-03T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 9,
+        "tool_id": 20,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 43,
+        "tool_id": 20,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 25,
+        "tool_id": 20,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 10,
+        "tool_id": 20,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 11,
+        "tool_id": 20,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 54,
+        "tool_id": 20,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 19,
+        "tool_id": 20,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 55,
+        "tool_id": 20,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-01T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 7,
+        "tool_id": 20,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 31,
+        "tool_id": 20,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-04T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 34,
+        "tool_id": 20,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-02T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 24,
+        "tool_id": 20,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 57,
+        "tool_id": 20,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 21,
+        "tool_id": 20,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-16T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 14,
+        "tool_id": 20,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 63,
+        "tool_id": 20,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-02T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 33,
+        "tool_id": 20,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-23T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 20,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 15,
+        "tool_id": 20,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 12,
+        "tool_id": 20,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-14T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 41,
+        "tool_id": 20,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-03T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 20,
+        "tool_id": 20,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-20T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 8,
+        "tool_id": 20,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-08T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 45,
+        "tool_id": 20,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 32,
+        "tool_id": 20,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-28T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 58,
+        "tool_id": 20,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 13,
+        "tool_id": 20,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-13T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 46,
+        "tool_id": 20,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 44,
+        "tool_id": 20,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-27T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 18,
+        "tool_id": 20,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 61,
+        "tool_id": 20,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-16T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 27,
+        "tool_id": 20,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-17T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 4,
+        "tool_id": 20,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-30T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 26,
+        "tool_id": 20,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 39,
+        "tool_id": 20,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 6,
+        "tool_id": 20,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 37,
+        "tool_id": 20,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-26T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 22,
+        "tool_id": 20,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-03T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 30,
+        "tool_id": 20,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 53,
+        "tool_id": 20,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 29,
+        "tool_id": 20,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 42,
+        "tool_id": 20,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 52,
+        "tool_id": 20,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 66,
+        "tool_id": 20,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-30T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 40,
+        "tool_id": 20,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 56,
+        "tool_id": 20,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 51,
+        "tool_id": 20,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-08T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 65,
+        "tool_id": 20,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-25T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 23,
+        "tool_id": 20,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-10T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 38,
+        "tool_id": 20,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-08T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 49,
+        "tool_id": 21,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-21T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 30,
+        "tool_id": 21,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 21,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-04T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 4,
+        "tool_id": 21,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 40,
+        "tool_id": 21,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-08T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 52,
+        "tool_id": 21,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 34,
+        "tool_id": 21,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-06T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 9,
+        "tool_id": 21,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 5,
+        "tool_id": 21,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-03T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 38,
+        "tool_id": 21,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 35,
+        "tool_id": 21,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 28,
+        "tool_id": 21,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 33,
+        "tool_id": 21,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-18T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 64,
+        "tool_id": 21,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 2,
+        "tool_id": 21,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 13,
+        "tool_id": 21,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-22T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 45,
+        "tool_id": 21,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-23T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 51,
+        "tool_id": 21,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 8,
+        "tool_id": 21,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 21,
+        "tool_id": 21,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-09T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 7,
+        "tool_id": 21,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-17T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 63,
+        "tool_id": 21,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-05T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 26,
+        "tool_id": 21,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 16,
+        "tool_id": 21,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-30T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 25,
+        "tool_id": 21,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-15T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 48,
+        "tool_id": 21,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 29,
+        "tool_id": 21,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-25T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 18,
+        "tool_id": 21,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 20,
+        "tool_id": 22,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-19T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 18,
+        "tool_id": 22,
+        "usage_frequency": "rarely",
+        "last_used": "2026-02-24T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 56,
+        "tool_id": 22,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-11T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 19,
+        "tool_id": 22,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 8,
+        "tool_id": 22,
+        "usage_frequency": "rarely",
+        "last_used": "2026-02-22T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 32,
+        "tool_id": 22,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-17T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 38,
+        "tool_id": 22,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-04T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 31,
+        "tool_id": 22,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-03T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 54,
+        "tool_id": 22,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-11T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 41,
+        "tool_id": 22,
+        "usage_frequency": "rarely",
+        "last_used": "2026-02-21T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 23,
+        "tool_id": 22,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 24,
+        "tool_id": 22,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-30T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 10,
+        "tool_id": 22,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-29T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 21,
+        "tool_id": 22,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-28T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 49,
+        "tool_id": 22,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-30T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 39,
+        "tool_id": 22,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-11T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 60,
+        "tool_id": 22,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-12T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 22,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 57,
+        "tool_id": 22,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 48,
+        "tool_id": 22,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 12,
+        "tool_id": 22,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-19T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 15,
+        "tool_id": 22,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 45,
+        "tool_id": 22,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 7,
+        "tool_id": 22,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 34,
+        "tool_id": 22,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 16,
+        "tool_id": 22,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-10T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 27,
+        "tool_id": 22,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-05T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 29,
+        "tool_id": 22,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-16T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 6,
+        "tool_id": 22,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-06T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 36,
+        "tool_id": 22,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 43,
+        "tool_id": 22,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 25,
+        "tool_id": 22,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-18T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 28,
+        "tool_id": 22,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-16T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 50,
+        "tool_id": 22,
+        "usage_frequency": "rarely",
+        "last_used": "2026-02-21T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 59,
+        "tool_id": 22,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 44,
+        "tool_id": 22,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 22,
+        "tool_id": 22,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 53,
+        "tool_id": 22,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-02T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 51,
+        "tool_id": 22,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 26,
+        "tool_id": 22,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-07T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 11,
+        "tool_id": 22,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-04T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 17,
+        "tool_id": 22,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 46,
+        "tool_id": 22,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-22T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 13,
+        "tool_id": 22,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 65,
+        "tool_id": 22,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 9,
+        "tool_id": 22,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-06T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 58,
+        "tool_id": 22,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 4,
+        "tool_id": 23,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-05T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 58,
+        "tool_id": 23,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-28T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 27,
+        "tool_id": 23,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 2,
+        "tool_id": 23,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-18T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 18,
+        "tool_id": 23,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 30,
+        "tool_id": 23,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-14T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 6,
+        "tool_id": 23,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-18T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 23,
+        "tool_id": 23,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 18,
+        "tool_id": 24,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-05T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 57,
+        "tool_id": 24,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-18T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 20,
+        "tool_id": 24,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 14,
+        "tool_id": 24,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 42,
+        "tool_id": 24,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-15T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 62,
+        "tool_id": 24,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 26,
+        "tool_id": 24,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-12T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 53,
+        "tool_id": 24,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-14T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 48,
+        "tool_id": 24,
+        "usage_frequency": "rarely",
+        "last_used": "2026-02-21T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 4,
+        "tool_id": 24,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-15T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 39,
+        "tool_id": 24,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-23T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 2,
+        "tool_id": 24,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 31,
+        "tool_id": 24,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 44,
+        "tool_id": 24,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 6,
+        "tool_id": 24,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-11T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 54,
+        "tool_id": 24,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-18T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 47,
+        "tool_id": 24,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-07T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 21,
+        "tool_id": 24,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 43,
+        "tool_id": 24,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-21T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 19,
+        "tool_id": 24,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-19T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 16,
+        "tool_id": 24,
+        "usage_frequency": "rarely",
+        "last_used": "2026-04-10T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 41,
+        "tool_id": 24,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 3,
+        "tool_id": 24,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-02T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 22,
+        "tool_id": 24,
+        "usage_frequency": "weekly",
+        "last_used": "2026-05-14T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 10,
+        "tool_id": 24,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 32,
+        "tool_id": 24,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-17T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 9,
+        "tool_id": 24,
+        "usage_frequency": "rarely",
+        "last_used": "2026-05-08T08:44:15.287Z",
+        "proficiency_level": "intermediate"
+    },
+    {
+        "user_id": 40,
+        "tool_id": 24,
+        "usage_frequency": "monthly",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 8,
+        "tool_id": 24,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-20T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 28,
+        "tool_id": 24,
+        "usage_frequency": "daily",
+        "last_used": "2026-05-21T08:44:15.287Z",
+        "proficiency_level": "beginner"
+    },
+    {
+        "user_id": 50,
+        "tool_id": 24,
+        "usage_frequency": "monthly",
+        "last_used": "2026-04-22T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    },
+    {
+        "user_id": 58,
+        "tool_id": 24,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-24T08:44:15.287Z",
+        "proficiency_level": "expert"
+    },
+    {
+        "user_id": 45,
+        "tool_id": 24,
+        "usage_frequency": "rarely",
+        "last_used": "2026-03-08T08:44:15.287Z",
+        "proficiency_level": "advanced"
+    }
+]
