@@ -1,4 +1,4 @@
 <?php
-header("Location: ../views/Dashboard.php");
+header("Location: .././src/pages/Dashboard.php");
 exit;
 ?>
