@@ -2,7 +2,9 @@
 
 $title = "Dashboard";
 
-$url = "../Documentation/data/tools.json";
+$url = "https://tt-jsonserver-01.alt-tools.tech/tools?_sort=updated_date&_order=desc&_limit=8";
+
+// $url = "../Documentation/data/tools.json";
 
 $response = file_get_contents($url);
 
@@ -92,9 +94,9 @@ require_once('./composent/navbar.php');
                             <?php endif; ?>
                             <?= $item['name'] ?>
                         </td>
-                        <td class="px-4 py-2 hidden sm:table-cell""><?= $item['owner_department'] ?></td>
-                        <td class=" px-4 py-2 hidden sm:table-cell"><?= $item['active_users_count'] ?></td>
-                        <td class="px-4 py-2 hidden sm:table-cell"><?= $item['monthly_cost'] ?></td>
+                        <td class="px-4 py-2 hidden sm:table-cell""><?= $item['owner_department'] ?? 'Not to communicate' ?></td>
+                        <td class=" px-4 py-2 hidden sm:table-cell"><?= $item['active_users_count'] ?? 'Not to communicate' ?></td>
+                        <td class="px-4 py-2 hidden sm:table-cell"><?= $item['monthly_cost'] ?? 'Not to communicate' ?></td>
                         <?php
                         $status = $item['status'];
                         if ($status === "active") {

@@ -47,11 +47,11 @@ require_once('./composent/navbar.php');
 <div class="bg-white border gap-1 rounded-lg justify-items-center m-2">
 
 <ul class="list-disc ml-5">
-    <li>Name : <?= $item['name'] ?></li>
-    <li>Departement : <?= $item['owner_department'] ?></li>
-    <li>Monthly Cost : <?= $item['monthly_cost'] ?></li>
-    <li>Number active user active : <?= $item['active_users_count'] ?></li>
-    <li>Status : <?= $item['status'] ?></li>
+    <li>Name : <?= $item['name'] ?? 'Not to communicate' ?></li>
+    <li>Departement : <?= $item['owner_department'] ?? 'Not to communicate' ?></li>
+    <li>Monthly Cost : <?= $item['monthly_cost'] ?? 'Not to communicate' ?></li>
+    <li>Number active user active : <?= $item['active_users_count'] ?? 'Not to communicate' ?></li>
+    <li>Status : <?= $item['status'] ?? 'Not to communicate' ?></li>
 </ul>
 
 </div>
@@ -61,11 +61,11 @@ require_once('./composent/navbar.php');
 <div class="bg-white border gap-1 rounded-lg justify-items-center m-2">
 
 <ul class="list-disc ml-5">
-    <li>Id : <?= $item['id'] ?></li>
-    <li>Description : <?= $item['description'] ?></li>
-    <li>Category : <?= $item['category'] ?></li>
-    <li>Vendor : <?= $item['vendor'] ?></li>
-    <li>Website (url) : <?= $item['website_url'] ?></li>
+    <li>Id : <?= $item['id'] ?? 'Not to communicate' ?></li>
+    <li>Description : <?= $item['description'] ?? 'Not to communicate' ?></li>
+    <li>Category : <?= $item['category'] ?? 'Not to communicate' ?></li>
+    <li>Vendor : <?= $item['vendor'] ?? 'Not to communicate' ?></li>
+    <li>Website (url) : <?= $item['website_url'] ?? 'Not to communicate' ?></li>
         <li class="flex items-center gap-2">
         <span>Icon :</span>
 
@@ -78,8 +78,8 @@ require_once('./composent/navbar.php');
             >
         <?php endif; ?>
     </li>
-    <li>Created at : <?= $item['created_at'] ?></li>
-    <li>Updated at : <?= $item['updated_at'] ?></li>
+    <li>Created at : <?= $item['created_at'] ?? 'Not to communicate' ?></li>
+    <li>Updated at : <?= $item['updated_at'] ?? 'Not to communicate' ?></li>
 </ul>
 </div>
 
@@ -88,15 +88,14 @@ require_once('./composent/navbar.php');
 <div class="bg-white border gap-1 rounded-lg justify-items-center m-2 ">
 
 <ul class="list-disc ml-5">
-    <li>Active Users Count : <?= $item['active_users_count'] ?></li>
-    <li>Previous month : <?= $item['previous_month_cost'] ?></li>
+    <li>Active Users Count : <?= $item['active_users_count'] ?? 'Not to communicate' ?></li>
+    <li>Previous month : <?= $item['previous_month_cost'] ?? 'Not to communicate' ?></li>
 </ul>
 </div>
 <div class="flex justify-center">
 <a href="./tool_update.php?id=<?= $item['id'] ?>" class="bg-violet-600 rounded-md w-fit text-center p-2 m-2 inline-block text-white">Update the tool</a>
-<a href="./tool_delete.php?id=<?= $item['id'] ?>" class="bg-violet-600 rounded-md w-fit text-center p-2 m-2 inline-block text-white">Delete tool</a>
+<a href="./tool_delete.php?id=<?= $item['id'] ?>" class="bg-violet-600 rounded-md w-fit text-center p-2 m-2 inline-block text-white">Delete the tool (This would be irreparable)</a>
 </div>
-
 
 </main>
 <?php

@@ -1,37 +1,5 @@
 [
     {
-        "id": 1,
-        "name": "Slack",
-        "description": "Team messaging and collaboration platform",
-        "vendor": "Slack Technologies",
-        "category": "Communication",
-        "monthly_cost": 2632,
-        "previous_month_cost": 2778,
-        "owner_department": "Communication",
-        "status": "active",
-        "website_url": "https:\/\/slack.com",
-        "active_users_count": 240,
-        "icon_url": "https:\/\/a.slack-edge.com\/80588\/marketing\/img\/icons\/icon_slack_hash_colored.png",
-        "created_at": "2024-03-31T10:31:33.807Z",
-        "updated_at": "2025-08-01T04:23:05.633Z"
-    },
-    {
-        "id": 2,
-        "name": "Figma",
-        "description": "Collaborative design and prototyping tool",
-        "vendor": "Figma Inc",
-        "category": "Design",
-        "monthly_cost": 534,
-        "previous_month_cost": 510,
-        "owner_department": "Engineering",
-        "status": "active",
-        "website_url": "https:\/\/figma.com",
-        "active_users_count": 26,
-        "icon_url": "https:\/\/static.figma.com\/app\/icon\/1\/favicon.png",
-        "created_at": "2024-01-18T08:18:45.895Z",
-        "updated_at": "2026-02-16T16:44:34.950Z"
-    },
-    {
         "id": 3,
         "name": "GitHub",
         "description": "Version control and code collaboration platform",
